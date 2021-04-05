@@ -1,5 +1,5 @@
 .search-column{
-    background-color:	#D3D3D3;
+    background-color: #CFEEFA;
 }
 
 .list-group-item{
@@ -9,6 +9,8 @@
 .card-body{
     flex:auto
 }
+
+/* Colour code weather conditions */
 
 span.severe{
     padding: 3px;
